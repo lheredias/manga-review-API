@@ -1,5 +1,5 @@
-from pyexpat import model
-from tkinter import CASCADE
+# from pyexpat import model
+# from tkinter import CASCADE
 from unicodedata import name
 from wsgiref.validate import validator
 from django.db import models
