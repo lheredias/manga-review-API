@@ -1,2 +1,2 @@
-web: gunicorn apirestq.wsgi
+web: gunicorn apirest.wsgi
 release: python manage.py migrate
