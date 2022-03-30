@@ -2,6 +2,10 @@
 
 > **Manga Review** is a _RESTful API_ built upon the _Django-REST Framework_ for creating and retrieving reviews for Manga series.
 
+# Documentation and examples
+
+Complete documentation, along with collection of examples, can be found [here](https://documenter.getpostman.com/view/17469158/UVyn2eGa).
+
 # Overview
 
 - Each Manga series has its own list of reviews and each review can be _liked_ by authenticated users.
